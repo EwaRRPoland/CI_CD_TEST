@@ -73,7 +73,7 @@
 
   - Otwieramy plik `main.yml` i upewniamy się, że zawiera poprawne definicje zadań (jobs) i kroków (steps).
 
-  - Możemy korzystać z gotowych szablonów lub dostosować konfigurację do naszych potrzeb.
+  - Dostosowujemy konfigurację do naszych potrzeb.
 
 - ## Testowanie workflow:
 
