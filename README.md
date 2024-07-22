@@ -1,8 +1,6 @@
 # CI_CD_TEST
 
-# 1. cypress-js-tests1
-
-# Wdrażanie lokalne Wymagania:
+# 1. Wdrażanie lokalne Wymagania:
 
 ## dotyczące konfiguracji środowiska dla testów Cypress w projekcie. Oto kilka kroków, które powinieneś wykonać:
 
